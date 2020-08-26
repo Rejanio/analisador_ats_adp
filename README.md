@@ -1,0 +1,2 @@
+# analisador_ats_adp
+Um analisador de robôs de investimento,conhecido sistemas automatizados de operações, a partir de dados capturados e produzindo informações estatísticas, gráficos das aplicações tomadas pelos robôs .Uma adaptação de um projeto desenvolvido por mim, mas que na sua versão original utilizou a plataforma web com framework Django.  Essa não é a versão final, mas parte do projeto que receberá atualizações.
